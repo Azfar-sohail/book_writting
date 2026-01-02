@@ -1,0 +1,28 @@
+{
+  "id": "part2/gazebo_physics_simulation",
+  "title": "Chapter 11: Gazebo: Physics & Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/part2/11_gazebo_physics_simulation.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/gazebo_physics_simulation",
+  "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/11_gazebo_physics_simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11,
+    "title": "Chapter 11: Gazebo: Physics & Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+    "permalink": "/ai-native-textbook-platform/part2/"
+  },
+  "next": {
+    "title": "Chapter 12: Sensors in Simulation",
+    "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation"
+  }
+}

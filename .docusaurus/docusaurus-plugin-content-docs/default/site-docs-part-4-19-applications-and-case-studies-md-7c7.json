@@ -1,0 +1,28 @@
+{
+  "id": "part4/applications_and_case_studies",
+  "title": "Chapter 19: Applications and Case Studies",
+  "description": "Overview",
+  "source": "@site/docs/part4/19_applications_and_case_studies.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/applications_and_case_studies",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/applications_and_case_studies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/19_applications_and_case_studies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 19: Applications and Case Studies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 18: Robotics Software Architectures",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/robotics_software_architectures"
+  },
+  "next": {
+    "title": "Chapter 20: Future Directions and Challenges",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/future_directions_and_challenges"
+  }
+}

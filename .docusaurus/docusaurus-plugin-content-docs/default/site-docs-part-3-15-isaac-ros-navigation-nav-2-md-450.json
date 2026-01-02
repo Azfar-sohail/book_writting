@@ -1,0 +1,28 @@
+{
+  "id": "part3/isaac_ros_navigation_nav2",
+  "title": "Chapter 5: Isaac ROS & Navigation (Nav2)",
+  "description": "Introduction",
+  "source": "@site/docs/part3/15_isaac_ros_navigation_nav2.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/isaac_ros_navigation_nav2",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/isaac_ros_navigation_nav2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/15_isaac_ros_navigation_nav2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 5: Isaac ROS & Navigation (Nav2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: NVIDIA Isaac Sim",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/nvidia_isaac_sim"
+  },
+  "next": {
+    "title": "Part IV: Intelligence & Autonomy",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/"
+  }
+}

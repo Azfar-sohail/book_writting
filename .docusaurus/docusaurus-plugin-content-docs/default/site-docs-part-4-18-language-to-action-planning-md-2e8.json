@@ -1,0 +1,28 @@
+{
+  "id": "part4/language_to_action_planning",
+  "title": "Chapter 8: Language to Action Planning",
+  "description": "Introduction",
+  "source": "@site/docs/part4/18_language_to_action_planning.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/language_to_action_planning",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/language_to_action_planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/18_language_to_action_planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Chapter 8: Language to Action Planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Voice to Text with Whisper",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/voice_to_text_with_whisper"
+  },
+  "next": {
+    "title": "Chapter 9: Autonomous Decision Making",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/autonomous_decision_making"
+  }
+}

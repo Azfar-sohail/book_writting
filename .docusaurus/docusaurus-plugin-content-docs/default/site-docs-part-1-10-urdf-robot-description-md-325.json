@@ -1,0 +1,28 @@
+{
+  "id": "part1/urdf_robot_description",
+  "title": "Chapter 10: URDF & Robot Description",
+  "description": "Introduction",
+  "source": "@site/docs/part1/10_urdf_robot_description.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/urdf_robot_description",
+  "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/10_urdf_robot_description.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Chapter 10: URDF & Robot Description"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+    "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy"
+  },
+  "next": {
+    "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+    "permalink": "/ai-native-textbook-platform/part2/"
+  }
+}

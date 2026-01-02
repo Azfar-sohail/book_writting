@@ -1,0 +1,28 @@
+{
+  "id": "part4/index",
+  "title": "Part IV: Intelligence & Autonomy",
+  "description": "This part covers advanced topics in AI for robotics, including vision-language-action systems, speech recognition, language-to-action planning, autonomous decision making, and a comprehensive capstone project. It integrates all concepts learned in previous parts to create an autonomous humanoid system.",
+  "source": "@site/docs/part4/index.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Part IV: Intelligence & Autonomy"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Isaac ROS & Navigation (Nav2)",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/isaac_ros_navigation_nav2"
+  },
+  "next": {
+    "title": "Chapter 6: What Is Vision-Language-Action (VLA)?",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/what_is_vision_language_action"
+  }
+}

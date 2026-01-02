@@ -1,0 +1,28 @@
+{
+  "id": "part2/spatial_reasoning_and_mapping",
+  "title": "Chapter 7: Spatial Reasoning and Mapping",
+  "description": "Overview",
+  "source": "@site/docs/part2/07_spatial_reasoning_and_mapping.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/spatial_reasoning_and_mapping",
+  "permalink": "/physical-ai-humanoid-robots/docs/part2/spatial_reasoning_and_mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part2/07_spatial_reasoning_and_mapping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 7: Spatial Reasoning and Mapping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Computer Vision for Robotics",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/computer_vision_for_robotics"
+  },
+  "next": {
+    "title": "Chapter 8: Tactile and Proprioceptive Sensing",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/tactile_and_proprioceptive_sensing"
+  }
+}

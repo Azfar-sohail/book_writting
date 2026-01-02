@@ -1,0 +1,28 @@
+{
+  "id": "part1/sensors_and_perception",
+  "title": "Chapter 3: Sensors and Perception Systems",
+  "description": "Overview",
+  "source": "@site/docs/part1/03_sensors_and_perception.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/sensors_and_perception",
+  "permalink": "/physical-ai-humanoid-robots/docs/part1/sensors_and_perception",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part1/03_sensors_and_perception.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 3: Sensors and Perception Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Fundamentals of Humanoid Robotics",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/fundamentals_of_humanoid_robotics"
+  },
+  "next": {
+    "title": "Chapter 4: Actuators and Mobility Systems",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/actuators_and_mobility"
+  }
+}

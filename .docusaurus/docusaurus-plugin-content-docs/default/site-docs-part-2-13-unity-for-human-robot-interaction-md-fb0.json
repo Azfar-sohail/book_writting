@@ -1,0 +1,28 @@
+{
+  "id": "part2/unity_for_human_robot_interaction",
+  "title": "Chapter 13: Unity for Human-Robot Interaction",
+  "description": "Introduction",
+  "source": "@site/docs/part2/13_unity_for_human_robot_interaction.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/unity_for_human_robot_interaction",
+  "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/13_unity_for_human_robot_interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "title": "Chapter 13: Unity for Human-Robot Interaction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 12: Sensors in Simulation",
+    "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation"
+  },
+  "next": {
+    "title": "Chapter 14: NVIDIA Isaac Sim",
+    "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim"
+  }
+}

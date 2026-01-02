@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics – AI Systems in the Physical World",
+  "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This book bridges artificial intelligence and robotics, providing a thorough understanding of how intelligent systems can be embodied in physical form.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ai-native-textbook-platform/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Physical AI & Humanoid Robotics – AI Systems in the Physical World"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Part I: Foundations & Robotic Systems",
+    "permalink": "/ai-native-textbook-platform/part1/"
+  }
+}

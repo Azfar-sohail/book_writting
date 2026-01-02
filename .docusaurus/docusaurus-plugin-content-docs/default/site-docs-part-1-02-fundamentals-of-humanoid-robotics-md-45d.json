@@ -1,0 +1,28 @@
+{
+  "id": "part1/fundamentals_of_humanoid_robotics",
+  "title": "Chapter 2: Fundamentals of Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/part1/02_fundamentals_of_humanoid_robotics.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/fundamentals_of_humanoid_robotics",
+  "permalink": "/physical-ai-humanoid-robots/docs/part1/fundamentals_of_humanoid_robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part1/02_fundamentals_of_humanoid_robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 2: Fundamentals of Humanoid Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/introduction_to_physical_ai"
+  },
+  "next": {
+    "title": "Chapter 3: Sensors and Perception Systems",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/sensors_and_perception"
+  }
+}

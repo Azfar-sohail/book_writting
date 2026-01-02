@@ -1,0 +1,28 @@
+{
+  "id": "part4/advanced_control_strategies",
+  "title": "Chapter 17: Advanced Control Strategies",
+  "description": "Overview",
+  "source": "@site/docs/part4/17_advanced_control_strategies.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/advanced_control_strategies",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/advanced_control_strategies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/17_advanced_control_strategies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 17: Advanced Control Strategies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 16: Cognitive Architectures",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/cognitive_architectures"
+  },
+  "next": {
+    "title": "Chapter 18: Robotics Software Architectures",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/robotics_software_architectures"
+  }
+}

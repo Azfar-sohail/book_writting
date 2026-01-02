@@ -1,0 +1,28 @@
+{
+  "id": "part3/human_robot_interaction",
+  "title": "Chapter 15: Human-Robot Interaction",
+  "description": "Overview",
+  "source": "@site/docs/part3/15_human_robot_interaction.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/human_robot_interaction",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/human_robot_interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/15_human_robot_interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 15: Human-Robot Interaction"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 14: Learning and Adaptation",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/learning_and_adaptation"
+  },
+  "next": {
+    "title": "Part 4: Applications",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "part1/introduction_to_physical_ai",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "Overview",
+  "source": "@site/docs/part1/01_introduction_to_physical_ai.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/introduction_to_physical_ai",
+  "permalink": "/physical-ai-humanoid-robots/docs/part1/introduction_to_physical_ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part1/01_introduction_to_physical_ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Chapter 1: Introduction to Physical AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Part 1: Foundations",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/"
+  },
+  "next": {
+    "title": "Chapter 2: Fundamentals of Humanoid Robotics",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/fundamentals_of_humanoid_robotics"
+  }
+}

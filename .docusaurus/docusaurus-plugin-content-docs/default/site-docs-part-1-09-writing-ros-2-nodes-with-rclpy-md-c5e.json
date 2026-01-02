@@ -1,0 +1,28 @@
+{
+  "id": "part1/writing_ros2_nodes_with_rclpy",
+  "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+  "description": "Introduction",
+  "source": "@site/docs/part1/09_writing_ros2_nodes_with_rclpy.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/writing_ros2_nodes_with_rclpy",
+  "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/09_writing_ros2_nodes_with_rclpy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Services, Actions, and Parameters",
+    "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters"
+  },
+  "next": {
+    "title": "Chapter 10: URDF & Robot Description",
+    "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description"
+  }
+}

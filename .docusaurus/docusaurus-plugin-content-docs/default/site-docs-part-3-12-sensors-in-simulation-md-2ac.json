@@ -1,0 +1,28 @@
+{
+  "id": "part3/sensors_in_simulation",
+  "title": "Chapter 2: Sensors in Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/part3/12_sensors_in_simulation.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/sensors_in_simulation",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/sensors_in_simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/12_sensors_in_simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 2: Sensors in Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Gazebo: Physics & Simulation",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/gazebo_physics_simulation"
+  },
+  "next": {
+    "title": "Chapter 3: Unity for Human-Robot Interaction",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/unity_for_human_robot_interaction"
+  }
+}

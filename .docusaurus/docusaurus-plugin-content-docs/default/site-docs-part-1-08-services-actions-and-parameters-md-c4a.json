@@ -1,0 +1,28 @@
+{
+  "id": "part1/services_actions_and_parameters",
+  "title": "Chapter 8: Services, Actions, and Parameters",
+  "description": "Introduction",
+  "source": "@site/docs/part1/08_services_actions_and_parameters.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/services_actions_and_parameters",
+  "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/08_services_actions_and_parameters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Chapter 8: Services, Actions, and Parameters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Nodes, Topics, and Messages",
+    "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages"
+  },
+  "next": {
+    "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+    "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy"
+  }
+}

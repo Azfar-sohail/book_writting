@@ -1,0 +1,15 @@
+{
+  "id": "rag_personalization_translation",
+  "title": "Configuration for RAG, Personalization, and Translation",
+  "description": "RAG (Retrieval-Augmented Generation) Readiness",
+  "source": "@site/docs/rag_personalization_translation.md",
+  "sourceDirName": ".",
+  "slug": "/rag_personalization_translation",
+  "permalink": "/ai-native-textbook-platform/rag_personalization_translation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/rag_personalization_translation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

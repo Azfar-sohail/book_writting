@@ -1,0 +1,28 @@
+{
+  "id": "part4/what_is_vision_language_action",
+  "title": "Chapter 6: What Is Vision-Language-Action (VLA)?",
+  "description": "Introduction",
+  "source": "@site/docs/part4/16_what_is_vision_language_action.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/what_is_vision_language_action",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/what_is_vision_language_action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/16_what_is_vision_language_action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 6: What Is Vision-Language-Action (VLA)?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Part IV: Intelligence & Autonomy",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/"
+  },
+  "next": {
+    "title": "Chapter 7: Voice to Text with Whisper",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/voice_to_text_with_whisper"
+  }
+}

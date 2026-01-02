@@ -1,0 +1,28 @@
+{
+  "id": "part3/index",
+  "title": "Part III: Simulation & Perception",
+  "description": "This part explores simulation environments and perception systems critical for robotics development. It covers physics simulation with Gazebo, sensor simulation, Unity for human-robot interaction, NVIDIA Isaac Sim, and Isaac ROS navigation systems.",
+  "source": "@site/docs/part3/index.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Part III: Simulation & Perception"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10: URDF & Robot Description",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/urdf_robot_description"
+  },
+  "next": {
+    "title": "Chapter 1: Gazebo: Physics & Simulation",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/gazebo_physics_simulation"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "part2/nodes_topics_and_messages",
+  "title": "Chapter 7: Nodes, Topics, and Messages",
+  "description": "Introduction",
+  "source": "@site/docs/part2/07_nodes_topics_and_messages.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/nodes_topics_and_messages",
+  "permalink": "/physical-ai-humanoid-robots/docs/part2/nodes_topics_and_messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part2/07_nodes_topics_and_messages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Chapter 7: Nodes, Topics, and Messages"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Introduction to ROS 2",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/introduction_to_ros2"
+  },
+  "next": {
+    "title": "Chapter 8: Services, Actions, and Parameters",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/services_actions_and_parameters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "part3/gazebo_physics_simulation",
+  "title": "Chapter 1: Gazebo: Physics & Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/part3/11_gazebo_physics_simulation.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/gazebo_physics_simulation",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/gazebo_physics_simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/11_gazebo_physics_simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Chapter 1: Gazebo: Physics & Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Part III: Simulation & Perception",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/"
+  },
+  "next": {
+    "title": "Chapter 2: Sensors in Simulation",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/sensors_in_simulation"
+  }
+}

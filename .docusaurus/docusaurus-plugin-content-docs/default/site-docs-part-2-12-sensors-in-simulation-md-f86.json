@@ -1,0 +1,28 @@
+{
+  "id": "part2/sensors_in_simulation",
+  "title": "Chapter 12: Sensors in Simulation",
+  "description": "Introduction",
+  "source": "@site/docs/part2/12_sensors_in_simulation.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/sensors_in_simulation",
+  "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/12_sensors_in_simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "title": "Chapter 12: Sensors in Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: Gazebo: Physics & Simulation",
+    "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation"
+  },
+  "next": {
+    "title": "Chapter 13: Unity for Human-Robot Interaction",
+    "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction"
+  }
+}

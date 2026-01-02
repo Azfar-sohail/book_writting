@@ -1,0 +1,28 @@
+{
+  "id": "part2/nvidia_isaac_sim",
+  "title": "Chapter 14: NVIDIA Isaac Sim",
+  "description": "Introduction",
+  "source": "@site/docs/part2/14_nvidia_isaac_sim.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/nvidia_isaac_sim",
+  "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/14_nvidia_isaac_sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "title": "Chapter 14: NVIDIA Isaac Sim"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 13: Unity for Human-Robot Interaction",
+    "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction"
+  },
+  "next": {
+    "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
+    "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2"
+  }
+}

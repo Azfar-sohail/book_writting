@@ -1,0 +1,28 @@
+{
+  "id": "part2/introduction_to_ros2",
+  "title": "Chapter 6: Introduction to ROS 2",
+  "description": "Introduction",
+  "source": "@site/docs/part2/06_introduction_to_ros2.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/introduction_to_ros2",
+  "permalink": "/physical-ai-humanoid-robots/docs/part2/introduction_to_ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part2/06_introduction_to_ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 6: Introduction to ROS 2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Part II: ROS & Communication",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/"
+  },
+  "next": {
+    "title": "Chapter 7: Nodes, Topics, and Messages",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/nodes_topics_and_messages"
+  }
+}

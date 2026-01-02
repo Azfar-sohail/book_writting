@@ -1,0 +1,28 @@
+{
+  "id": "part4/robotics_software_architectures",
+  "title": "Chapter 18: Robotics Software Architectures",
+  "description": "Overview",
+  "source": "@site/docs/part4/18_robotics_software_architectures.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/robotics_software_architectures",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/robotics_software_architectures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/18_robotics_software_architectures.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 18: Robotics Software Architectures"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 17: Advanced Control Strategies",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/advanced_control_strategies"
+  },
+  "next": {
+    "title": "Chapter 19: Applications and Case Studies",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/applications_and_case_studies"
+  }
+}

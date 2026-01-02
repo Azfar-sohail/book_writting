@@ -1,0 +1,147 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai-native-textbook-platform/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-native-textbook-platform/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/ai-native-textbook-platform/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/ai_meets_the_physical_world",
+              "path": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/basics_of_robotics_systems",
+              "path": "/ai-native-textbook-platform/part1/basics_of_robotics_systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/index",
+              "path": "/ai-native-textbook-platform/part1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/introduction_to_ros2",
+              "path": "/ai-native-textbook-platform/part1/introduction_to_ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/nodes_topics_and_messages",
+              "path": "/ai-native-textbook-platform/part1/nodes_topics_and_messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/services_actions_and_parameters",
+              "path": "/ai-native-textbook-platform/part1/services_actions_and_parameters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/simulation_before_reality",
+              "path": "/ai-native-textbook-platform/part1/simulation_before_reality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/software_stack_for_humanoid_robots",
+              "path": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/urdf_robot_description",
+              "path": "/ai-native-textbook-platform/part1/urdf_robot_description",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/what_is_physical_ai",
+              "path": "/ai-native-textbook-platform/part1/what_is_physical_ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part1/writing_ros2_nodes_with_rclpy",
+              "path": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/autonomous_decision_making",
+              "path": "/ai-native-textbook-platform/part2/autonomous_decision_making",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/capstone_the_autonomous_humanoid",
+              "path": "/ai-native-textbook-platform/part2/capstone_the_autonomous_humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/gazebo_physics_simulation",
+              "path": "/ai-native-textbook-platform/part2/gazebo_physics_simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/index",
+              "path": "/ai-native-textbook-platform/part2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/isaac_ros_navigation_nav2",
+              "path": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/language_to_action_planning",
+              "path": "/ai-native-textbook-platform/part2/language_to_action_planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/nvidia_isaac_sim",
+              "path": "/ai-native-textbook-platform/part2/nvidia_isaac_sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/sensors_in_simulation",
+              "path": "/ai-native-textbook-platform/part2/sensors_in_simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/unity_for_human_robot_interaction",
+              "path": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/voice_to_text_with_whisper",
+              "path": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "part2/what_is_vision_language_action",
+              "path": "/ai-native-textbook-platform/part2/what_is_vision_language_action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rag_personalization_translation",
+              "path": "/ai-native-textbook-platform/rag_personalization_translation"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai-native-textbook-platform/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

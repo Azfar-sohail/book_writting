@@ -1,0 +1,493 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "158": [
+      158
+    ],
+    "237": [
+      237
+    ],
+    "416": [
+      869,
+      416
+    ],
+    "913": [
+      869,
+      913
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "12f40925": [
+      126
+    ],
+    "15a87c73": [
+      730
+    ],
+    "1a4e3797": [
+      869,
+      138
+    ],
+    "1d4ecebf": [
+      193
+    ],
+    "29fbe2b1": [
+      810
+    ],
+    "2e45de28": [
+      934
+    ],
+    "2fba28bb": [
+      42
+    ],
+    "325adc24": [
+      591
+    ],
+    "3b68f8f5": [
+      671
+    ],
+    "4384d634": [
+      879
+    ],
+    "45072ed1": [
+      923
+    ],
+    "4aa47bec": [
+      350
+    ],
+    "57f4b109": [
+      335
+    ],
+    "5b60b7b8": [
+      811
+    ],
+    "5ccc5773": [
+      823
+    ],
+    "5e95c892": [
+      647
+    ],
+    "64a3e0b5": [
+      737
+    ],
+    "7260e495": [
+      843
+    ],
+    "7ef460e7": [
+      159
+    ],
+    "935f2afb": [
+      581
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a7d7e0a8": [
+      84
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "c377a04b": [
+      742
+    ],
+    "c4a6c627": [
+      781
+    ],
+    "c5eee8fe": [
+      289
+    ],
+    "cf7e9850": [
+      504
+    ],
+    "ebfe0c30": [
+      443
+    ],
+    "f3c16388": [
+      607
+    ],
+    "f86f5121": [
+      664
+    ],
+    "fb0765fe": [
+      848
+    ],
+    "styles": [
+      48,
+      138,
+      354,
+      401,
+      416,
+      792,
+      913,
+      869
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/2fba28bb.03fa228a.js",
+          "hash": "6ffa0ec906373409",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/2fba28bb.03fa228a.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.59e773ce.js",
+          "hash": "d4df2a26c7a671e8",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/a94703ab.59e773ce.js"
+        }
+      ]
+    },
+    "84": {
+      "js": [
+        {
+          "file": "assets/js/a7d7e0a8.7881c187.js",
+          "hash": "220acf135875caea",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/a7d7e0a8.7881c187.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.76c40bda.js",
+          "hash": "5444d9fe49546a56",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/a7bd4aaa.76c40bda.js"
+        }
+      ]
+    },
+    "126": {
+      "js": [
+        {
+          "file": "assets/js/12f40925.e4d04fdf.js",
+          "hash": "8cb1c73f53ceae02",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/12f40925.e4d04fdf.js"
+        }
+      ]
+    },
+    "138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.20f5083c.js",
+          "hash": "03f8f0ea2324351a",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/1a4e3797.20f5083c.js"
+        }
+      ]
+    },
+    "158": {
+      "js": [
+        {
+          "file": "assets/js/158.94853ae2.js",
+          "hash": "296073bae94aa2f2",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/158.94853ae2.js"
+        }
+      ]
+    },
+    "159": {
+      "js": [
+        {
+          "file": "assets/js/7ef460e7.fc26c43d.js",
+          "hash": "f2ecc77c4bdde294",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/7ef460e7.fc26c43d.js"
+        }
+      ]
+    },
+    "193": {
+      "js": [
+        {
+          "file": "assets/js/1d4ecebf.4a91d23b.js",
+          "hash": "d5e9ebdd21aeb8e5",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/1d4ecebf.4a91d23b.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.caedbd80.js",
+          "hash": "b6954f46ceb7235e",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/237.caedbd80.js"
+        }
+      ]
+    },
+    "289": {
+      "js": [
+        {
+          "file": "assets/js/c5eee8fe.d1e85ad2.js",
+          "hash": "940201b702a6bb7b",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/c5eee8fe.d1e85ad2.js"
+        }
+      ]
+    },
+    "335": {
+      "js": [
+        {
+          "file": "assets/js/57f4b109.e8e32a2a.js",
+          "hash": "0c121dbbfc733419",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/57f4b109.e8e32a2a.js"
+        }
+      ]
+    },
+    "350": {
+      "js": [
+        {
+          "file": "assets/js/4aa47bec.546fd6e9.js",
+          "hash": "6227685a69e1f943",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/4aa47bec.546fd6e9.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.4e936349.js",
+          "hash": "864360c22e3405aa",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/runtime~main.4e936349.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.69303615.js",
+          "hash": "ee34faba2ded5e57",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/17896441.69303615.js"
+        }
+      ]
+    },
+    "416": {
+      "js": [
+        {
+          "file": "assets/js/416.d05ac1b8.js",
+          "hash": "d7d1d7fbc3e8de94",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/416.d05ac1b8.js"
+        }
+      ]
+    },
+    "443": {
+      "js": [
+        {
+          "file": "assets/js/ebfe0c30.4dcbf634.js",
+          "hash": "f9fd1161755c2032",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/ebfe0c30.4dcbf634.js"
+        }
+      ]
+    },
+    "504": {
+      "js": [
+        {
+          "file": "assets/js/cf7e9850.e9b0cf69.js",
+          "hash": "27470e67e75bd3d3",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/cf7e9850.e9b0cf69.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.012324e7.js",
+          "hash": "51693592916ad129",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/935f2afb.012324e7.js"
+        }
+      ]
+    },
+    "591": {
+      "js": [
+        {
+          "file": "assets/js/325adc24.607508ba.js",
+          "hash": "69964c9ffb842ff4",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/325adc24.607508ba.js"
+        }
+      ]
+    },
+    "607": {
+      "js": [
+        {
+          "file": "assets/js/f3c16388.b404075a.js",
+          "hash": "ee5dc3457c8845bf",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/f3c16388.b404075a.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.ed5ebfe6.js",
+          "hash": "b04db745dd479652",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/5e95c892.ed5ebfe6.js"
+        }
+      ]
+    },
+    "664": {
+      "js": [
+        {
+          "file": "assets/js/f86f5121.246bf34e.js",
+          "hash": "8f981f12e3ac89f2",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/f86f5121.246bf34e.js"
+        }
+      ]
+    },
+    "671": {
+      "js": [
+        {
+          "file": "assets/js/3b68f8f5.e6f29419.js",
+          "hash": "ee1c74f2679b91dc",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/3b68f8f5.e6f29419.js"
+        }
+      ]
+    },
+    "730": {
+      "js": [
+        {
+          "file": "assets/js/15a87c73.91a269aa.js",
+          "hash": "90570c01486a4f67",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/15a87c73.91a269aa.js"
+        }
+      ]
+    },
+    "737": {
+      "js": [
+        {
+          "file": "assets/js/64a3e0b5.bd6ce7dc.js",
+          "hash": "06234c9ff7ef7474",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/64a3e0b5.bd6ce7dc.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/c377a04b.015abcf7.js",
+          "hash": "2bb0044e0e8ad847",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/c377a04b.015abcf7.js"
+        }
+      ]
+    },
+    "781": {
+      "js": [
+        {
+          "file": "assets/js/c4a6c627.a1069449.js",
+          "hash": "807663dd86e18f9d",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/c4a6c627.a1069449.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.a7a66ee2.js",
+          "hash": "1c30d34f26a5a676",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/main.a7a66ee2.js"
+        }
+      ]
+    },
+    "810": {
+      "js": [
+        {
+          "file": "assets/js/29fbe2b1.78c99acb.js",
+          "hash": "c5e8ee1d788bcd55",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/29fbe2b1.78c99acb.js"
+        }
+      ]
+    },
+    "811": {
+      "js": [
+        {
+          "file": "assets/js/5b60b7b8.59ae030f.js",
+          "hash": "33ef15e6d12823b7",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/5b60b7b8.59ae030f.js"
+        }
+      ]
+    },
+    "823": {
+      "js": [
+        {
+          "file": "assets/js/5ccc5773.12c4f2ce.js",
+          "hash": "0124bf0b8c41b0ac",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/5ccc5773.12c4f2ce.js"
+        }
+      ]
+    },
+    "843": {
+      "js": [
+        {
+          "file": "assets/js/7260e495.7ba5792d.js",
+          "hash": "7a051ab636328f7c",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/7260e495.7ba5792d.js"
+        }
+      ]
+    },
+    "848": {
+      "js": [
+        {
+          "file": "assets/js/fb0765fe.78447a4e.js",
+          "hash": "b11867b789cda8f6",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/fb0765fe.78447a4e.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.b0bfbc68.css",
+          "hash": "f1e174da40379c5b",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/css/styles.b0bfbc68.css"
+        }
+      ]
+    },
+    "879": {
+      "js": [
+        {
+          "file": "assets/js/4384d634.fe525ac3.js",
+          "hash": "abb174380b9529d3",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/4384d634.fe525ac3.js"
+        }
+      ]
+    },
+    "913": {
+      "js": [
+        {
+          "file": "assets/js/913.6aad2da0.js",
+          "hash": "03fba51ff528de19",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/913.6aad2da0.js"
+        }
+      ]
+    },
+    "923": {
+      "js": [
+        {
+          "file": "assets/js/45072ed1.99f7af90.js",
+          "hash": "1646c7c40719edf8",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/45072ed1.99f7af90.js"
+        }
+      ]
+    },
+    "934": {
+      "js": [
+        {
+          "file": "assets/js/2e45de28.a7e905b4.js",
+          "hash": "4f49d56dc46cc75c",
+          "publicPath": "/ai-native-textbook-platform/zh-TW/assets/js/2e45de28.a7e905b4.js"
+        }
+      ]
+    }
+  }
+}

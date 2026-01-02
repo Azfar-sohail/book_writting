@@ -1,0 +1,28 @@
+{
+  "id": "part4/autonomous_decision_making",
+  "title": "Chapter 9: Autonomous Decision Making",
+  "description": "Introduction",
+  "source": "@site/docs/part4/19_autonomous_decision_making.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/autonomous_decision_making",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/autonomous_decision_making",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/19_autonomous_decision_making.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Chapter 9: Autonomous Decision Making"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Language to Action Planning",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/language_to_action_planning"
+  },
+  "next": {
+    "title": "Chapter 10: Capstone: The Autonomous Humanoid",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/capstone_the_autonomous_humanoid"
+  }
+}

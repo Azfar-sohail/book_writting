@@ -1,0 +1,24 @@
+{
+  "id": "part4/capstone_the_autonomous_humanoid",
+  "title": "Chapter 10: Capstone: The Autonomous Humanoid",
+  "description": "Introduction",
+  "source": "@site/docs/part4/20_capstone_the_autonomous_humanoid.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/capstone_the_autonomous_humanoid",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/capstone_the_autonomous_humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/20_capstone_the_autonomous_humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "Chapter 10: Capstone: The Autonomous Humanoid"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Autonomous Decision Making",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/autonomous_decision_making"
+  }
+}

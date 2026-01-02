@@ -1,55 +1,53 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+# Physical AI & Humanoid Robots – An AI-Native Book Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### I. Spec-driven development
+All content and features will be planned through detailed specifications before implementation. Each chapter and section will have clear acceptance criteria and requirements defined upfront.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### II. AI-first content creation
+Content will be created with AI assistance from the ground up, ensuring that examples, explanations, and exercises leverage AI capabilities effectively.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### III. Clear learning progression
+Chapters will follow a logical progression from beginner to intermediate concepts, with each building upon previous knowledge in a structured way.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### IV. Modular and reusable intelligence
+Content will be organized in modular sections that can be reused, recombined, and adapted for different learning paths and audiences.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### V. Practical, example-driven instruction
+Each concept will be accompanied by practical examples, code snippets, and real-world applications to reinforce learning.
 
-### [PRINCIPLE_6_NAME]
+### VI. Accessibility and Multilingual Support
+Content will be structured to support RAG, personalization, and translation extensions from the beginning.
 
+## Technology Stack and Requirements
 
-[PRINCIPLE__DESCRIPTION]
+The textbook will be deployed using Docusaurus as the documentation platform, with content written in Markdown format. The structure will support 20 cohesive chapters organized in a 4-part structure.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+### Content Standards
+- All content must be accessible to beginners to intermediate learners
+- Engineering students and AI/Robotics practitioners should find value in each chapter
+- Code examples should be practical and runnable
+- Figures and diagrams should be included where appropriate
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+### Deployment Requirements
+- Site must be deployable using Docusaurus
+- Ready for RAG (Retrieval-Augmented Generation) capabilities
+- Ready for personalization features
+- Ready for translation extensions
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+## Development Workflow
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+Content development will follow the Spec-Driven Development methodology:
+1. Create detailed specifications for each chapter
+2. Plan the implementation with architectural decisions
+3. Break down work into testable tasks
+4. Implement content with proper review process
+5. Maintain Prompt History Records for all changes
+6. Document significant architectural decisions in ADRs
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This constitution supersedes all other practices for this project. All changes to the textbook content must verify compliance with these principles. Complexity must be justified with clear learning benefits.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-12-26 | **Last Amended**: 2025-12-26

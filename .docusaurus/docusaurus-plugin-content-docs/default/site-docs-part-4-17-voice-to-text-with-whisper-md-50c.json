@@ -1,0 +1,28 @@
+{
+  "id": "part4/voice_to_text_with_whisper",
+  "title": "Chapter 7: Voice to Text with Whisper",
+  "description": "Introduction",
+  "source": "@site/docs/part4/17_voice_to_text_with_whisper.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/voice_to_text_with_whisper",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/voice_to_text_with_whisper",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/17_voice_to_text_with_whisper.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Chapter 7: Voice to Text with Whisper"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: What Is Vision-Language-Action (VLA)?",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/what_is_vision_language_action"
+  },
+  "next": {
+    "title": "Chapter 8: Language to Action Planning",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/language_to_action_planning"
+  }
+}

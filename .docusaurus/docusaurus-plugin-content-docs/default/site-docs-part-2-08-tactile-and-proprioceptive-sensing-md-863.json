@@ -1,0 +1,28 @@
+{
+  "id": "part2/tactile_and_proprioceptive_sensing",
+  "title": "Chapter 8: Tactile and Proprioceptive Sensing",
+  "description": "Overview",
+  "source": "@site/docs/part2/08_tactile_and_proprioceptive_sensing.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/tactile_and_proprioceptive_sensing",
+  "permalink": "/physical-ai-humanoid-robots/docs/part2/tactile_and_proprioceptive_sensing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part2/08_tactile_and_proprioceptive_sensing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 8: Tactile and Proprioceptive Sensing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Spatial Reasoning and Mapping",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/spatial_reasoning_and_mapping"
+  },
+  "next": {
+    "title": "Chapter 9: Auditory Perception",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/auditory_perception"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "part3/learning_and_adaptation",
+  "title": "Chapter 14: Learning and Adaptation",
+  "description": "Overview",
+  "source": "@site/docs/part3/14_learning_and_adaptation.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/learning_and_adaptation",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/learning_and_adaptation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/14_learning_and_adaptation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 14: Learning and Adaptation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 13: Planning and Decision Making",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/planning_and_decision_making"
+  },
+  "next": {
+    "title": "Chapter 15: Human-Robot Interaction",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/human_robot_interaction"
+  }
+}

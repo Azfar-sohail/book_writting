@@ -1,0 +1,799 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/ai-native-textbook-platform/",
+          "tagsPath": "/ai-native-textbook-platform/tags",
+          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs",
+          "editUrlLocalized": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\HP\\Desktop\\Azfar\\sidebars.js",
+          "contentPath": "C:\\Users\\HP\\Desktop\\Azfar\\docs",
+          "contentPathLocalized": "C:\\Users\\HP\\Desktop\\Azfar\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "index",
+              "title": "Physical AI & Humanoid Robotics – AI Systems in the Physical World",
+              "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This book bridges artificial intelligence and robotics, providing a thorough understanding of how intelligent systems can be embodied in physical form.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/ai-native-textbook-platform/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Physical AI & Humanoid Robotics – AI Systems in the Physical World"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Part I: Foundations & Robotic Systems",
+                "permalink": "/ai-native-textbook-platform/part1/"
+              }
+            },
+            {
+              "id": "part1/ai_meets_the_physical_world",
+              "title": "Chapter 3: AI Meets the Physical World",
+              "description": "Introduction",
+              "source": "@site/docs/part1/03_ai_meets_the_physical_world.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/ai_meets_the_physical_world",
+              "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/03_ai_meets_the_physical_world.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Chapter 3: AI Meets the Physical World"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 2: Basics of Robotics Systems",
+                "permalink": "/ai-native-textbook-platform/part1/basics_of_robotics_systems"
+              },
+              "next": {
+                "title": "Chapter 4: Software Stack for Humanoid Robots",
+                "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots"
+              }
+            },
+            {
+              "id": "part1/basics_of_robotics_systems",
+              "title": "Chapter 2: Basics of Robotics Systems",
+              "description": "Introduction",
+              "source": "@site/docs/part1/02_basics_of_robotics_systems.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/basics_of_robotics_systems",
+              "permalink": "/ai-native-textbook-platform/part1/basics_of_robotics_systems",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/02_basics_of_robotics_systems.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Chapter 2: Basics of Robotics Systems"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 1: What Is Physical AI?",
+                "permalink": "/ai-native-textbook-platform/part1/what_is_physical_ai"
+              },
+              "next": {
+                "title": "Chapter 3: AI Meets the Physical World",
+                "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world"
+              }
+            },
+            {
+              "id": "part1/index",
+              "title": "Part I: Foundations & Robotic Systems",
+              "description": "This part establishes the foundational concepts necessary for understanding Physical AI and robotics systems. It covers the basic principles of Physical AI, fundamental robotics systems, the intersection of AI and physical systems, software stack considerations for humanoid robots, and the importance of simulation in robotics development.",
+              "source": "@site/docs/part1/index.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/",
+              "permalink": "/ai-native-textbook-platform/part1/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Part I: Foundations & Robotic Systems"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physical AI & Humanoid Robotics – AI Systems in the Physical World",
+                "permalink": "/ai-native-textbook-platform/"
+              },
+              "next": {
+                "title": "Chapter 1: What Is Physical AI?",
+                "permalink": "/ai-native-textbook-platform/part1/what_is_physical_ai"
+              }
+            },
+            {
+              "id": "part1/introduction_to_ros2",
+              "title": "Chapter 6: Introduction to ROS 2",
+              "description": "Introduction",
+              "source": "@site/docs/part1/06_introduction_to_ros2.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/introduction_to_ros2",
+              "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/06_introduction_to_ros2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "Chapter 6: Introduction to ROS 2"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 5: Simulation Before Reality",
+                "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality"
+              },
+              "next": {
+                "title": "Chapter 7: Nodes, Topics, and Messages",
+                "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages"
+              }
+            },
+            {
+              "id": "part1/nodes_topics_and_messages",
+              "title": "Chapter 7: Nodes, Topics, and Messages",
+              "description": "Introduction",
+              "source": "@site/docs/part1/07_nodes_topics_and_messages.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/nodes_topics_and_messages",
+              "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/07_nodes_topics_and_messages.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7,
+                "title": "Chapter 7: Nodes, Topics, and Messages"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 6: Introduction to ROS 2",
+                "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2"
+              },
+              "next": {
+                "title": "Chapter 8: Services, Actions, and Parameters",
+                "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters"
+              }
+            },
+            {
+              "id": "part1/services_actions_and_parameters",
+              "title": "Chapter 8: Services, Actions, and Parameters",
+              "description": "Introduction",
+              "source": "@site/docs/part1/08_services_actions_and_parameters.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/services_actions_and_parameters",
+              "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/08_services_actions_and_parameters.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "title": "Chapter 8: Services, Actions, and Parameters"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 7: Nodes, Topics, and Messages",
+                "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages"
+              },
+              "next": {
+                "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+                "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy"
+              }
+            },
+            {
+              "id": "part1/simulation_before_reality",
+              "title": "Chapter 5: Simulation Before Reality",
+              "description": "Introduction",
+              "source": "@site/docs/part1/05_simulation_before_reality.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/simulation_before_reality",
+              "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/05_simulation_before_reality.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Chapter 5: Simulation Before Reality"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 4: Software Stack for Humanoid Robots",
+                "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots"
+              },
+              "next": {
+                "title": "Chapter 6: Introduction to ROS 2",
+                "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2"
+              }
+            },
+            {
+              "id": "part1/software_stack_for_humanoid_robots",
+              "title": "Chapter 4: Software Stack for Humanoid Robots",
+              "description": "Introduction",
+              "source": "@site/docs/part1/04_software_stack_for_humanoid_robots.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/software_stack_for_humanoid_robots",
+              "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/04_software_stack_for_humanoid_robots.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Chapter 4: Software Stack for Humanoid Robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 3: AI Meets the Physical World",
+                "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world"
+              },
+              "next": {
+                "title": "Chapter 5: Simulation Before Reality",
+                "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality"
+              }
+            },
+            {
+              "id": "part1/urdf_robot_description",
+              "title": "Chapter 10: URDF & Robot Description",
+              "description": "Introduction",
+              "source": "@site/docs/part1/10_urdf_robot_description.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/urdf_robot_description",
+              "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/10_urdf_robot_description.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "title": "Chapter 10: URDF & Robot Description"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+                "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy"
+              },
+              "next": {
+                "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+                "permalink": "/ai-native-textbook-platform/part2/"
+              }
+            },
+            {
+              "id": "part1/what_is_physical_ai",
+              "title": "Chapter 1: What Is Physical AI?",
+              "description": "Introduction",
+              "source": "@site/docs/part1/01_what_is_physical_ai.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/what_is_physical_ai",
+              "permalink": "/ai-native-textbook-platform/part1/what_is_physical_ai",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/01_what_is_physical_ai.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Chapter 1: What Is Physical AI?"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Part I: Foundations & Robotic Systems",
+                "permalink": "/ai-native-textbook-platform/part1/"
+              },
+              "next": {
+                "title": "Chapter 2: Basics of Robotics Systems",
+                "permalink": "/ai-native-textbook-platform/part1/basics_of_robotics_systems"
+              }
+            },
+            {
+              "id": "part1/writing_ros2_nodes_with_rclpy",
+              "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)",
+              "description": "Introduction",
+              "source": "@site/docs/part1/09_writing_ros2_nodes_with_rclpy.md",
+              "sourceDirName": "part1",
+              "slug": "/part1/writing_ros2_nodes_with_rclpy",
+              "permalink": "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/09_writing_ros2_nodes_with_rclpy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9,
+                "title": "Chapter 9: Writing ROS 2 Nodes with Python (rclpy)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 8: Services, Actions, and Parameters",
+                "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters"
+              },
+              "next": {
+                "title": "Chapter 10: URDF & Robot Description",
+                "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description"
+              }
+            },
+            {
+              "id": "part2/autonomous_decision_making",
+              "title": "Chapter 19: Autonomous Decision Making",
+              "description": "Introduction",
+              "source": "@site/docs/part2/19_autonomous_decision_making.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/autonomous_decision_making",
+              "permalink": "/ai-native-textbook-platform/part2/autonomous_decision_making",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/19_autonomous_decision_making.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 19,
+              "frontMatter": {
+                "sidebar_position": 19,
+                "title": "Chapter 19: Autonomous Decision Making"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 18: Language to Action Planning",
+                "permalink": "/ai-native-textbook-platform/part2/language_to_action_planning"
+              },
+              "next": {
+                "title": "Chapter 20: Capstone: The Autonomous Humanoid",
+                "permalink": "/ai-native-textbook-platform/part2/capstone_the_autonomous_humanoid"
+              }
+            },
+            {
+              "id": "part2/capstone_the_autonomous_humanoid",
+              "title": "Chapter 20: Capstone: The Autonomous Humanoid",
+              "description": "Introduction",
+              "source": "@site/docs/part2/20_capstone_the_autonomous_humanoid.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/capstone_the_autonomous_humanoid",
+              "permalink": "/ai-native-textbook-platform/part2/capstone_the_autonomous_humanoid",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/20_capstone_the_autonomous_humanoid.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 20,
+              "frontMatter": {
+                "sidebar_position": 20,
+                "title": "Chapter 20: Capstone: The Autonomous Humanoid"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 19: Autonomous Decision Making",
+                "permalink": "/ai-native-textbook-platform/part2/autonomous_decision_making"
+              }
+            },
+            {
+              "id": "part2/gazebo_physics_simulation",
+              "title": "Chapter 11: Gazebo: Physics & Simulation",
+              "description": "Introduction",
+              "source": "@site/docs/part2/11_gazebo_physics_simulation.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/gazebo_physics_simulation",
+              "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/11_gazebo_physics_simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11,
+                "title": "Chapter 11: Gazebo: Physics & Simulation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+                "permalink": "/ai-native-textbook-platform/part2/"
+              },
+              "next": {
+                "title": "Chapter 12: Sensors in Simulation",
+                "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation"
+              }
+            },
+            {
+              "id": "part2/index",
+              "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+              "description": "This part explores advanced topics in AI for robotics, including simulation environments, perception systems, and autonomous decision making. It covers physics simulation with Gazebo, sensor simulation, Unity for human-robot interaction, NVIDIA Isaac Sim, Isaac ROS navigation, vision-language-action systems, speech recognition, language-to-action planning, autonomous decision making, and concludes with a comprehensive capstone project.",
+              "source": "@site/docs/part2/index.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/",
+              "permalink": "/ai-native-textbook-platform/part2/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 10: URDF & Robot Description",
+                "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description"
+              },
+              "next": {
+                "title": "Chapter 11: Gazebo: Physics & Simulation",
+                "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation"
+              }
+            },
+            {
+              "id": "part2/isaac_ros_navigation_nav2",
+              "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
+              "description": "Introduction",
+              "source": "@site/docs/part2/15_isaac_ros_navigation_nav2.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/isaac_ros_navigation_nav2",
+              "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/15_isaac_ros_navigation_nav2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_position": 15,
+                "title": "Chapter 15: Isaac ROS & Navigation (Nav2)"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 14: NVIDIA Isaac Sim",
+                "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim"
+              },
+              "next": {
+                "title": "Chapter 16: What Is Vision-Language-Action (VLA)?",
+                "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action"
+              }
+            },
+            {
+              "id": "part2/language_to_action_planning",
+              "title": "Chapter 18: Language to Action Planning",
+              "description": "Introduction",
+              "source": "@site/docs/part2/18_language_to_action_planning.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/language_to_action_planning",
+              "permalink": "/ai-native-textbook-platform/part2/language_to_action_planning",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/18_language_to_action_planning.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "sidebar_position": 18,
+                "title": "Chapter 18: Language to Action Planning"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 17: Voice to Text with Whisper",
+                "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper"
+              },
+              "next": {
+                "title": "Chapter 19: Autonomous Decision Making",
+                "permalink": "/ai-native-textbook-platform/part2/autonomous_decision_making"
+              }
+            },
+            {
+              "id": "part2/nvidia_isaac_sim",
+              "title": "Chapter 14: NVIDIA Isaac Sim",
+              "description": "Introduction",
+              "source": "@site/docs/part2/14_nvidia_isaac_sim.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/nvidia_isaac_sim",
+              "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/14_nvidia_isaac_sim.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14,
+                "title": "Chapter 14: NVIDIA Isaac Sim"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 13: Unity for Human-Robot Interaction",
+                "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction"
+              },
+              "next": {
+                "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
+                "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2"
+              }
+            },
+            {
+              "id": "part2/sensors_in_simulation",
+              "title": "Chapter 12: Sensors in Simulation",
+              "description": "Introduction",
+              "source": "@site/docs/part2/12_sensors_in_simulation.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/sensors_in_simulation",
+              "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/12_sensors_in_simulation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12,
+                "title": "Chapter 12: Sensors in Simulation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 11: Gazebo: Physics & Simulation",
+                "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation"
+              },
+              "next": {
+                "title": "Chapter 13: Unity for Human-Robot Interaction",
+                "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction"
+              }
+            },
+            {
+              "id": "part2/unity_for_human_robot_interaction",
+              "title": "Chapter 13: Unity for Human-Robot Interaction",
+              "description": "Introduction",
+              "source": "@site/docs/part2/13_unity_for_human_robot_interaction.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/unity_for_human_robot_interaction",
+              "permalink": "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/13_unity_for_human_robot_interaction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13,
+                "title": "Chapter 13: Unity for Human-Robot Interaction"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 12: Sensors in Simulation",
+                "permalink": "/ai-native-textbook-platform/part2/sensors_in_simulation"
+              },
+              "next": {
+                "title": "Chapter 14: NVIDIA Isaac Sim",
+                "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim"
+              }
+            },
+            {
+              "id": "part2/voice_to_text_with_whisper",
+              "title": "Chapter 17: Voice to Text with Whisper",
+              "description": "Introduction",
+              "source": "@site/docs/part2/17_voice_to_text_with_whisper.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/voice_to_text_with_whisper",
+              "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/17_voice_to_text_with_whisper.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_position": 17,
+                "title": "Chapter 17: Voice to Text with Whisper"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 16: What Is Vision-Language-Action (VLA)?",
+                "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action"
+              },
+              "next": {
+                "title": "Chapter 18: Language to Action Planning",
+                "permalink": "/ai-native-textbook-platform/part2/language_to_action_planning"
+              }
+            },
+            {
+              "id": "part2/what_is_vision_language_action",
+              "title": "Chapter 16: What Is Vision-Language-Action (VLA)?",
+              "description": "Introduction",
+              "source": "@site/docs/part2/16_what_is_vision_language_action.md",
+              "sourceDirName": "part2",
+              "slug": "/part2/what_is_vision_language_action",
+              "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/16_what_is_vision_language_action.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16,
+                "title": "Chapter 16: What Is Vision-Language-Action (VLA)?"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
+                "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2"
+              },
+              "next": {
+                "title": "Chapter 17: Voice to Text with Whisper",
+                "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper"
+              }
+            },
+            {
+              "id": "rag_personalization_translation",
+              "title": "Configuration for RAG, Personalization, and Translation",
+              "description": "RAG (Retrieval-Augmented Generation) Readiness",
+              "source": "@site/docs/rag_personalization_translation.md",
+              "sourceDirName": ".",
+              "slug": "/rag_personalization_translation",
+              "permalink": "/ai-native-textbook-platform/rag_personalization_translation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/rag_personalization_translation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Part I: Foundations & Robotic Systems",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part1/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/what_is_physical_ai"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/basics_of_robotics_systems"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/ai_meets_the_physical_world"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/software_stack_for_humanoid_robots"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/simulation_before_reality"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/introduction_to_ros2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/nodes_topics_and_messages"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/services_actions_and_parameters"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/writing_ros2_nodes_with_rclpy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part1/urdf_robot_description"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "part2/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/gazebo_physics_simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/sensors_in_simulation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/unity_for_human_robot_interaction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/nvidia_isaac_sim"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/isaac_ros_navigation_nav2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/what_is_vision_language_action"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/voice_to_text_with_whisper"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/language_to_action_planning"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/autonomous_decision_making"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "part2/capstone_the_autonomous_humanoid"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

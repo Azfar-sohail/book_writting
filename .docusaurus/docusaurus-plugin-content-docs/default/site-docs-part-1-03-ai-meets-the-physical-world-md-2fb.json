@@ -1,0 +1,28 @@
+{
+  "id": "part1/ai_meets_the_physical_world",
+  "title": "Chapter 3: AI Meets the Physical World",
+  "description": "Introduction",
+  "source": "@site/docs/part1/03_ai_meets_the_physical_world.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/ai_meets_the_physical_world",
+  "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/03_ai_meets_the_physical_world.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 3: AI Meets the Physical World"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Basics of Robotics Systems",
+    "permalink": "/ai-native-textbook-platform/part1/basics_of_robotics_systems"
+  },
+  "next": {
+    "title": "Chapter 4: Software Stack for Humanoid Robots",
+    "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots"
+  }
+}

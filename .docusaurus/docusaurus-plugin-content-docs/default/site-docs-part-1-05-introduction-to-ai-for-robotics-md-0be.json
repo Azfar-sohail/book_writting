@@ -1,0 +1,28 @@
+{
+  "id": "part1/introduction_to_ai_for_robotics",
+  "title": "Chapter 5: Introduction to AI for Robotics",
+  "description": "Overview",
+  "source": "@site/docs/part1/05_introduction_to_ai_for_robotics.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/introduction_to_ai_for_robotics",
+  "permalink": "/physical-ai-humanoid-robots/docs/part1/introduction_to_ai_for_robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part1/05_introduction_to_ai_for_robotics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 5: Introduction to AI for Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Actuators and Mobility Systems",
+    "permalink": "/physical-ai-humanoid-robots/docs/part1/actuators_and_mobility"
+  },
+  "next": {
+    "title": "Part 2: Perception",
+    "permalink": "/physical-ai-humanoid-robots/docs/part2/"
+  }
+}

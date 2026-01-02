@@ -1,0 +1,28 @@
+{
+  "id": "part2/index",
+  "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action",
+  "description": "This part explores advanced topics in AI for robotics, including simulation environments, perception systems, and autonomous decision making. It covers physics simulation with Gazebo, sensor simulation, Unity for human-robot interaction, NVIDIA Isaac Sim, Isaac ROS navigation, vision-language-action systems, speech recognition, language-to-action planning, autonomous decision making, and concludes with a comprehensive capstone project.",
+  "source": "@site/docs/part2/index.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/",
+  "permalink": "/ai-native-textbook-platform/part2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Part II: Digital Twins, Autonomy & Vision-Language-Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 10: URDF & Robot Description",
+    "permalink": "/ai-native-textbook-platform/part1/urdf_robot_description"
+  },
+  "next": {
+    "title": "Chapter 11: Gazebo: Physics & Simulation",
+    "permalink": "/ai-native-textbook-platform/part2/gazebo_physics_simulation"
+  }
+}

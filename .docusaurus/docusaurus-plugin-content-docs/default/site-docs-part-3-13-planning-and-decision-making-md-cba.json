@@ -1,0 +1,28 @@
+{
+  "id": "part3/planning_and_decision_making",
+  "title": "Chapter 13: Planning and Decision Making",
+  "description": "Overview",
+  "source": "@site/docs/part3/13_planning_and_decision_making.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/planning_and_decision_making",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/planning_and_decision_making",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/13_planning_and_decision_making.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 13: Planning and Decision Making"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 12: Manipulation and Grasping",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/manipulation_and_grasping"
+  },
+  "next": {
+    "title": "Chapter 14: Learning and Adaptation",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/learning_and_adaptation"
+  }
+}

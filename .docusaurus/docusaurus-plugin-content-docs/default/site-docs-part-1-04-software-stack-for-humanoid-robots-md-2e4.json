@@ -1,0 +1,28 @@
+{
+  "id": "part1/software_stack_for_humanoid_robots",
+  "title": "Chapter 4: Software Stack for Humanoid Robots",
+  "description": "Introduction",
+  "source": "@site/docs/part1/04_software_stack_for_humanoid_robots.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/software_stack_for_humanoid_robots",
+  "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/04_software_stack_for_humanoid_robots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 4: Software Stack for Humanoid Robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: AI Meets the Physical World",
+    "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world"
+  },
+  "next": {
+    "title": "Chapter 5: Simulation Before Reality",
+    "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality"
+  }
+}

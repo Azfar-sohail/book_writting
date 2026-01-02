@@ -1,0 +1,28 @@
+{
+  "id": "part4/future_directions_and_challenges",
+  "title": "Chapter 20: Future Directions and Challenges",
+  "description": "Overview",
+  "source": "@site/docs/part4/20_future_directions_and_challenges.md",
+  "sourceDirName": "part4",
+  "slug": "/part4/future_directions_and_challenges",
+  "permalink": "/physical-ai-humanoid-robots/docs/part4/future_directions_and_challenges",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part4/20_future_directions_and_challenges.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 20: Future Directions and Challenges"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 19: Applications and Case Studies",
+    "permalink": "/physical-ai-humanoid-robots/docs/part4/applications_and_case_studies"
+  },
+  "next": {
+    "title": "Configuration for RAG, Personalization, and Translation",
+    "permalink": "/physical-ai-humanoid-robots/docs/rag_personalization_translation"
+  }
+}

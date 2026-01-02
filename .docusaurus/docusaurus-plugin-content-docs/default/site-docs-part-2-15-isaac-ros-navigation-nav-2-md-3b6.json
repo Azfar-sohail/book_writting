@@ -1,0 +1,28 @@
+{
+  "id": "part2/isaac_ros_navigation_nav2",
+  "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
+  "description": "Introduction",
+  "source": "@site/docs/part2/15_isaac_ros_navigation_nav2.md",
+  "sourceDirName": "part2",
+  "slug": "/part2/isaac_ros_navigation_nav2",
+  "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/15_isaac_ros_navigation_nav2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "title": "Chapter 15: Isaac ROS & Navigation (Nav2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 14: NVIDIA Isaac Sim",
+    "permalink": "/ai-native-textbook-platform/part2/nvidia_isaac_sim"
+  },
+  "next": {
+    "title": "Chapter 16: What Is Vision-Language-Action (VLA)?",
+    "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action"
+  }
+}

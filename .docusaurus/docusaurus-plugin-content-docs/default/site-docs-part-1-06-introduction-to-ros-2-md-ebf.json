@@ -1,0 +1,28 @@
+{
+  "id": "part1/introduction_to_ros2",
+  "title": "Chapter 6: Introduction to ROS 2",
+  "description": "Introduction",
+  "source": "@site/docs/part1/06_introduction_to_ros2.md",
+  "sourceDirName": "part1",
+  "slug": "/part1/introduction_to_ros2",
+  "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/06_introduction_to_ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Chapter 6: Introduction to ROS 2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Simulation Before Reality",
+    "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality"
+  },
+  "next": {
+    "title": "Chapter 7: Nodes, Topics, and Messages",
+    "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages"
+  }
+}

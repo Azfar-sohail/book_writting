@@ -1,0 +1,28 @@
+{
+  "id": "part3/manipulation_and_grasping",
+  "title": "Chapter 12: Manipulation and Grasping",
+  "description": "Overview",
+  "source": "@site/docs/part3/12_manipulation_and_grasping.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/manipulation_and_grasping",
+  "permalink": "/physical-ai-humanoid-robots/docs/part3/manipulation_and_grasping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/packages/create-docusaurus/templates/shared/docs/part3/12_manipulation_and_grasping.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 12: Manipulation and Grasping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 11: Locomotion and Balance Control",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/locomotion_and_balance_control"
+  },
+  "next": {
+    "title": "Chapter 13: Planning and Decision Making",
+    "permalink": "/physical-ai-humanoid-robots/docs/part3/planning_and_decision_making"
+  }
+}
