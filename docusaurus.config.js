@@ -1,6 +1,4 @@
 // @ts-check
-// Docusaurus config for a single Book landing page
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -9,17 +7,14 @@ const config = {
   tagline: 'An AI-Native textbook on bridging artificial intelligence and robotics',
   favicon: 'img/favicon.ico',
 
-  // ✅ GitHub Pages URL (user site)
+  // Required fields (from docs)
   url: 'https://azfar-sohail.github.io',
 
-  // ✅ MUST match repo name exactly
-  baseUrl: '/book-writting/',
+  // ✅ Environment-aware baseUrl
+  baseUrl: process.env.VERCEL === '1' ? '/' : '/book_writting/',
 
-  // ✅ GitHub org/user
   organizationName: 'Azfar-sohail',
-
-  // ✅ Repository name
-  projectName: 'book-writting',
+  projectName: 'book_writting',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -35,9 +30,9 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/', // Docs = landing page
+          routeBasePath: '/', // docs = homepage
           editUrl:
-            'https://github.com/Azfar-sohail/book-writting/tree/main/',
+            'https://github.com/Azfar-sohail/book_writting/tree/main/',
         },
         blog: false,
         theme: {
@@ -57,7 +52,7 @@ const config = {
       title: 'Book',
       items: [
         {
-          href: 'https://github.com/Azfar-sohail/book-writting',
+          href: 'https://github.com/Azfar-sohail/book_writting',
           label: 'GitHub',
           position: 'right',
         },
@@ -65,9 +60,6 @@ const config = {
     },
 
     footer: undefined,
-
-    // ❌ Disable Algolia unless you configured it
-    algolia: undefined,
   },
 };
 
