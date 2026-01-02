@@ -5,10 +5,10 @@
   "source": "@site/docs/part1/07_nodes_topics_and_messages.md",
   "sourceDirName": "part1",
   "slug": "/part1/nodes_topics_and_messages",
-  "permalink": "/ai-native-textbook-platform/part1/nodes_topics_and_messages",
+  "permalink": "/book-writting/part1/nodes_topics_and_messages",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/07_nodes_topics_and_messages.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part1/07_nodes_topics_and_messages.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 6: Introduction to ROS 2",
-    "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2"
+    "permalink": "/book-writting/part1/introduction_to_ros2"
   },
   "next": {
     "title": "Chapter 8: Services, Actions, and Parameters",
-    "permalink": "/ai-native-textbook-platform/part1/services_actions_and_parameters"
+    "permalink": "/book-writting/part1/services_actions_and_parameters"
   }
 }

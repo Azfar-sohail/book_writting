@@ -5,15 +5,21 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Book', // Landing page title
+  title: 'Book',
   tagline: 'An AI-Native textbook on bridging artificial intelligence and robotics',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-username.github.io',
-  baseUrl: '/ai-native-textbook-platform/',
+  // ✅ GitHub Pages URL (user site)
+  url: 'https://azfar-sohail.github.io',
 
-  organizationName: 'your-organization',
-  projectName: 'physical-ai-humanoid-robots',
+  // ✅ MUST match repo name exactly
+  baseUrl: '/book-writting/',
+
+  // ✅ GitHub org/user
+  organizationName: 'Azfar-sohail',
+
+  // ✅ Repository name
+  projectName: 'book-writting',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -29,10 +35,11 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/your-username/physical-ai-humanoid-robots/tree/main/',
-          routeBasePath: '/', // Make docs the landing page
+          routeBasePath: '/', // Docs = landing page
+          editUrl:
+            'https://github.com/Azfar-sohail/book-writting/tree/main/',
         },
-        blog: false, // Disable blog
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -46,29 +53,21 @@ const config = {
       darkTheme: prismThemes.dracula,
     },
 
-    // Navbar configuration: single title "Book"
     navbar: {
-      title: 'Book', // Updated title
-      logo: undefined, // Remove logo completely
+      title: 'Book',
       items: [
         {
-          href: 'https://github.com/your-username/physical-ai-humanoid-robots',
+          href: 'https://github.com/Azfar-sohail/book-writting',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
 
-    footer: undefined, // No footer
+    footer: undefined,
 
-    algolia: {
-      appId: 'YOUR_APP_ID',
-      apiKey: 'YOUR_SEARCH_API_KEY',
-      indexName: 'physical-ai-humanoid-robots',
-      contextualSearch: true,
-      replaceSearchResultPathname: { from: '/docs/', to: '/' },
-      searchPagePath: 'search',
-    },
+    // ❌ Disable Algolia unless you configured it
+    algolia: undefined,
   },
 };
 

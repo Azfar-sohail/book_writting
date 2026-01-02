@@ -1,160 +1,111 @@
 {
-  "/ai-native-textbook-platform/__docusaurus/debug-0f7": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/book-writting/-c0f": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
+      "plugin": "953e1bec"
     }
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/config-1ce": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    }
+  "/book-writting/-a4c": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/content-72c": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    },
-    "allContent": "allContent---ai-native-textbook-platform-docusaurus-debug-content-246-c01"
+  "/book-writting/-99a": {
+    "__comp": "a94703ab"
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/globalData-749": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    }
+  "/book-writting/part1/-c19": {
+    "__comp": "17896441",
+    "content": "45072ed1"
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/metadata-9ce": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    }
+  "/book-writting/part1/ai_meets_the_physical_world-c7a": {
+    "__comp": "17896441",
+    "content": "2fba28bb"
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/registry-c4c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    }
+  "/book-writting/part1/basics_of_robotics_systems-402": {
+    "__comp": "17896441",
+    "content": "4384d634"
   },
-  "/ai-native-textbook-platform/__docusaurus/debug/routes-89a": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-docusaurus-debugf-75-c87"
-    }
+  "/book-writting/part1/introduction_to_ros2-d7f": {
+    "__comp": "17896441",
+    "content": "ebfe0c30"
   },
-  "/ai-native-textbook-platform/search-70c": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-search-29-a-992"
-    }
+  "/book-writting/part1/nodes_topics_and_messages-d6c": {
+    "__comp": "17896441",
+    "content": "29fbe2b1"
   },
-  "/ai-native-textbook-platform/-ad1": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---ai-native-textbook-platform-953-c42"
-    }
+  "/book-writting/part1/services_actions_and_parameters-9e4": {
+    "__comp": "17896441",
+    "content": "c4a6c627"
   },
-  "/ai-native-textbook-platform/-3d1": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---ai-native-textbook-platform-935-1a1"
+  "/book-writting/part1/simulation_before_reality-bad": {
+    "__comp": "17896441",
+    "content": "4aa47bec"
   },
-  "/ai-native-textbook-platform/-ece": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/book-writting/part1/software_stack_for_humanoid_robots-eba": {
+    "__comp": "17896441",
+    "content": "2e45de28"
   },
-  "/ai-native-textbook-platform/part1/-1bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-450-e2d"
+  "/book-writting/part1/urdf_robot_description-0d7": {
+    "__comp": "17896441",
+    "content": "325adc24"
   },
-  "/ai-native-textbook-platform/part1/ai_meets_the_physical_world-7e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-ai-meets-the-physical-world-2-fb-ae9"
+  "/book-writting/part1/what_is_physical_ai-371": {
+    "__comp": "17896441",
+    "content": "7260e495"
   },
-  "/ai-native-textbook-platform/part1/basics_of_robotics_systems-cd6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-basics-of-robotics-systems-438-802"
+  "/book-writting/part1/writing_ros2_nodes_with_rclpy-b65": {
+    "__comp": "17896441",
+    "content": "c5eee8fe"
   },
-  "/ai-native-textbook-platform/part1/introduction_to_ros2-4c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-introduction-to-ros-2-ebf-a47"
+  "/book-writting/part2/-fd6": {
+    "__comp": "17896441",
+    "content": "12f40925"
   },
-  "/ai-native-textbook-platform/part1/nodes_topics_and_messages-945": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-nodes-topics-and-messages-29-f-a97"
+  "/book-writting/part2/autonomous_decision_making-f8f": {
+    "__comp": "17896441",
+    "content": "a7d7e0a8"
   },
-  "/ai-native-textbook-platform/part1/services_actions_and_parameters-2dd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-services-actions-and-parametersc-4-a-b6a"
+  "/book-writting/part2/capstone_the_autonomous_humanoid-c5c": {
+    "__comp": "17896441",
+    "content": "5ccc5773"
   },
-  "/ai-native-textbook-platform/part1/simulation_before_reality-e5b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-simulation-before-reality-4-aa-d5a"
+  "/book-writting/part2/gazebo_physics_simulation-c51": {
+    "__comp": "17896441",
+    "content": "5b60b7b8"
   },
-  "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots-3c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-software-stack-for-humanoid-robots-2-e-4-e4e"
+  "/book-writting/part2/isaac_ros_navigation_nav2-75d": {
+    "__comp": "17896441",
+    "content": "3b68f8f5"
   },
-  "/ai-native-textbook-platform/part1/urdf_robot_description-0e9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-urdf-robot-description-325-694"
+  "/book-writting/part2/language_to_action_planning-91f": {
+    "__comp": "17896441",
+    "content": "57f4b109"
   },
-  "/ai-native-textbook-platform/part1/what_is_physical_ai-b68": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-what-is-physical-ai-726-7eb"
+  "/book-writting/part2/nvidia_isaac_sim-bb6": {
+    "__comp": "17896441",
+    "content": "64a3e0b5"
   },
-  "/ai-native-textbook-platform/part1/writing_ros2_nodes_with_rclpy-8ca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-1-writing-ros-2-nodes-with-rclpyc-5-e-757"
+  "/book-writting/part2/sensors_in_simulation-fb0": {
+    "__comp": "17896441",
+    "content": "f86f5121"
   },
-  "/ai-native-textbook-platform/part2/-346": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-12-f-4cc"
+  "/book-writting/part2/unity_for_human_robot_interaction-e85": {
+    "__comp": "17896441",
+    "content": "fb0765fe"
   },
-  "/ai-native-textbook-platform/part2/autonomous_decision_making-6bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-autonomous-decision-makinga-7-d-d96"
+  "/book-writting/part2/voice_to_text_with_whisper-c76": {
+    "__comp": "17896441",
+    "content": "f3c16388"
   },
-  "/ai-native-textbook-platform/part2/capstone_the_autonomous_humanoid-067": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-capstone-the-autonomous-humanoid-5-cc-0c7"
+  "/book-writting/part2/what_is_vision_language_action-99c": {
+    "__comp": "17896441",
+    "content": "15a87c73"
   },
-  "/ai-native-textbook-platform/part2/gazebo_physics_simulation-67f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-gazebo-physics-simulation-5-b-6-972"
+  "/book-writting/rag_personalization_translation-346": {
+    "__comp": "17896441",
+    "content": "1d4ecebf"
   },
-  "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2-4ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-isaac-ros-navigation-nav-23-b-6-dba"
-  },
-  "/ai-native-textbook-platform/part2/language_to_action_planning-8e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-language-to-action-planning-57-f-ad0"
-  },
-  "/ai-native-textbook-platform/part2/nvidia_isaac_sim-c0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-nvidia-isaac-sim-64-a-a07"
-  },
-  "/ai-native-textbook-platform/part2/sensors_in_simulation-cc6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-sensors-in-simulationf-86-65f"
-  },
-  "/ai-native-textbook-platform/part2/unity_for_human_robot_interaction-965": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-unity-for-human-robot-interactionfb-0-b2b"
-  },
-  "/ai-native-textbook-platform/part2/voice_to_text_with_whisper-fe3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-voice-to-text-with-whisperf-3-c-5f3"
-  },
-  "/ai-native-textbook-platform/part2/what_is_vision_language_action-c2b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-part-2-what-is-vision-language-action-15-a-988"
-  },
-  "/ai-native-textbook-platform/rag_personalization_translation-487": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-rag-personalization-translation-1-d-4-400"
-  },
-  "/ai-native-textbook-platform/-6e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-native-textbook-platform-c-37-9b0"
+  "/book-writting/-6e9": {
+    "__comp": "17896441",
+    "content": "c377a04b"
   }
 }

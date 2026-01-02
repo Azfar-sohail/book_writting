@@ -5,10 +5,10 @@
   "source": "@site/docs/part1/05_simulation_before_reality.md",
   "sourceDirName": "part1",
   "slug": "/part1/simulation_before_reality",
-  "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality",
+  "permalink": "/book-writting/part1/simulation_before_reality",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/05_simulation_before_reality.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part1/05_simulation_before_reality.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 4: Software Stack for Humanoid Robots",
-    "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots"
+    "permalink": "/book-writting/part1/software_stack_for_humanoid_robots"
   },
   "next": {
     "title": "Chapter 6: Introduction to ROS 2",
-    "permalink": "/ai-native-textbook-platform/part1/introduction_to_ros2"
+    "permalink": "/book-writting/part1/introduction_to_ros2"
   }
 }

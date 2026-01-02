@@ -5,10 +5,10 @@
   "source": "@site/docs/part1/04_software_stack_for_humanoid_robots.md",
   "sourceDirName": "part1",
   "slug": "/part1/software_stack_for_humanoid_robots",
-  "permalink": "/ai-native-textbook-platform/part1/software_stack_for_humanoid_robots",
+  "permalink": "/book-writting/part1/software_stack_for_humanoid_robots",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/04_software_stack_for_humanoid_robots.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part1/04_software_stack_for_humanoid_robots.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 3: AI Meets the Physical World",
-    "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world"
+    "permalink": "/book-writting/part1/ai_meets_the_physical_world"
   },
   "next": {
     "title": "Chapter 5: Simulation Before Reality",
-    "permalink": "/ai-native-textbook-platform/part1/simulation_before_reality"
+    "permalink": "/book-writting/part1/simulation_before_reality"
   }
 }

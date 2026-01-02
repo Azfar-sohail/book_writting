@@ -5,10 +5,10 @@
   "source": "@site/docs/part1/02_basics_of_robotics_systems.md",
   "sourceDirName": "part1",
   "slug": "/part1/basics_of_robotics_systems",
-  "permalink": "/ai-native-textbook-platform/part1/basics_of_robotics_systems",
+  "permalink": "/book-writting/part1/basics_of_robotics_systems",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part1/02_basics_of_robotics_systems.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part1/02_basics_of_robotics_systems.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 1: What Is Physical AI?",
-    "permalink": "/ai-native-textbook-platform/part1/what_is_physical_ai"
+    "permalink": "/book-writting/part1/what_is_physical_ai"
   },
   "next": {
     "title": "Chapter 3: AI Meets the Physical World",
-    "permalink": "/ai-native-textbook-platform/part1/ai_meets_the_physical_world"
+    "permalink": "/book-writting/part1/ai_meets_the_physical_world"
   }
 }

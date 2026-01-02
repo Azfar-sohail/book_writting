@@ -5,10 +5,10 @@
   "source": "@site/docs/part2/17_voice_to_text_with_whisper.md",
   "sourceDirName": "part2",
   "slug": "/part2/voice_to_text_with_whisper",
-  "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper",
+  "permalink": "/book-writting/part2/voice_to_text_with_whisper",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/17_voice_to_text_with_whisper.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part2/17_voice_to_text_with_whisper.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 17,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 16: What Is Vision-Language-Action (VLA)?",
-    "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action"
+    "permalink": "/book-writting/part2/what_is_vision_language_action"
   },
   "next": {
     "title": "Chapter 18: Language to Action Planning",
-    "permalink": "/ai-native-textbook-platform/part2/language_to_action_planning"
+    "permalink": "/book-writting/part2/language_to_action_planning"
   }
 }

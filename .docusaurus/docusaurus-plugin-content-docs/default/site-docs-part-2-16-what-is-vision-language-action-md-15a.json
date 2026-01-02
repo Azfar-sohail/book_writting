@@ -5,10 +5,10 @@
   "source": "@site/docs/part2/16_what_is_vision_language_action.md",
   "sourceDirName": "part2",
   "slug": "/part2/what_is_vision_language_action",
-  "permalink": "/ai-native-textbook-platform/part2/what_is_vision_language_action",
+  "permalink": "/book-writting/part2/what_is_vision_language_action",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/16_what_is_vision_language_action.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part2/16_what_is_vision_language_action.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 16,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 15: Isaac ROS & Navigation (Nav2)",
-    "permalink": "/ai-native-textbook-platform/part2/isaac_ros_navigation_nav2"
+    "permalink": "/book-writting/part2/isaac_ros_navigation_nav2"
   },
   "next": {
     "title": "Chapter 17: Voice to Text with Whisper",
-    "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper"
+    "permalink": "/book-writting/part2/voice_to_text_with_whisper"
   }
 }

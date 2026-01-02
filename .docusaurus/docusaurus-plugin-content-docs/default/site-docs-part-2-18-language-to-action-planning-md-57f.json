@@ -5,10 +5,10 @@
   "source": "@site/docs/part2/18_language_to_action_planning.md",
   "sourceDirName": "part2",
   "slug": "/part2/language_to_action_planning",
-  "permalink": "/ai-native-textbook-platform/part2/language_to_action_planning",
+  "permalink": "/book-writting/part2/language_to_action_planning",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/18_language_to_action_planning.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part2/18_language_to_action_planning.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 18,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 17: Voice to Text with Whisper",
-    "permalink": "/ai-native-textbook-platform/part2/voice_to_text_with_whisper"
+    "permalink": "/book-writting/part2/voice_to_text_with_whisper"
   },
   "next": {
     "title": "Chapter 19: Autonomous Decision Making",
-    "permalink": "/ai-native-textbook-platform/part2/autonomous_decision_making"
+    "permalink": "/book-writting/part2/autonomous_decision_making"
   }
 }

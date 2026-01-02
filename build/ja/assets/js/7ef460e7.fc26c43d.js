@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkai_native_textbook_platform=globalThis.webpackChunkai_native_textbook_platform||[]).push([[159],{7757(a){a.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);

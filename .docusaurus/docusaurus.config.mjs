@@ -7,10 +7,10 @@ export default {
   "title": "Book",
   "tagline": "An AI-Native textbook on bridging artificial intelligence and robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://your-username.github.io",
-  "baseUrl": "/ai-native-textbook-platform/",
-  "organizationName": "your-organization",
-  "projectName": "physical-ai-humanoid-robots",
+  "url": "https://azfar-sohail.github.io",
+  "baseUrl": "/book-writting/",
+  "organizationName": "Azfar-sohail",
+  "projectName": "book-writting",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,8 +27,8 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\HP\\Desktop\\Azfar\\sidebars.js",
-          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/",
-          "routeBasePath": "/"
+          "routeBasePath": "/",
+          "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/"
         },
         "blog": false,
         "theme": {
@@ -246,24 +246,12 @@ export default {
       "title": "Book",
       "items": [
         {
-          "href": "https://github.com/your-username/physical-ai-humanoid-robots",
+          "href": "https://github.com/Azfar-sohail/book-writting",
           "label": "GitHub",
           "position": "right"
         }
       ],
       "hideOnScroll": false
-    },
-    "algolia": {
-      "appId": "YOUR_APP_ID",
-      "apiKey": "YOUR_SEARCH_API_KEY",
-      "indexName": "physical-ai-humanoid-robots",
-      "contextualSearch": true,
-      "replaceSearchResultPathname": {
-        "from": "/docs/",
-        "to": "/"
-      },
-      "searchPagePath": "search",
-      "searchParameters": {}
     },
     "colorMode": {
       "defaultMode": "light",

@@ -5,10 +5,10 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/ai-native-textbook-platform/",
+  "permalink": "/book-writting/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/index.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Part I: Foundations & Robotic Systems",
-    "permalink": "/ai-native-textbook-platform/part1/"
+    "permalink": "/book-writting/part1/"
   }
 }

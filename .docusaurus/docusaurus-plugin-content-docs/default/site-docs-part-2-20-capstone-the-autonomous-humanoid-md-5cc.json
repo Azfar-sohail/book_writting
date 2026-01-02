@@ -5,10 +5,10 @@
   "source": "@site/docs/part2/20_capstone_the_autonomous_humanoid.md",
   "sourceDirName": "part2",
   "slug": "/part2/capstone_the_autonomous_humanoid",
-  "permalink": "/ai-native-textbook-platform/part2/capstone_the_autonomous_humanoid",
+  "permalink": "/book-writting/part2/capstone_the_autonomous_humanoid",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robots/tree/main/docs/part2/20_capstone_the_autonomous_humanoid.md",
+  "editUrl": "https://github.com/Azfar-sohail/book-writting/tree/main/docs/part2/20_capstone_the_autonomous_humanoid.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 20,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 19: Autonomous Decision Making",
-    "permalink": "/ai-native-textbook-platform/part2/autonomous_decision_making"
+    "permalink": "/book-writting/part2/autonomous_decision_making"
   }
 }
